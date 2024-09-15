@@ -22,4 +22,6 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+Reflection:I learned the principle to parse packaging data into a structured format, calculate total units, and identify the primary item in each package description. I utilized chatgpt in helping me understand it, but i learned the principle of parsing and calculate total units. 
+
 
